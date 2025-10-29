@@ -3,32 +3,32 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    title: "Finance dashboard Page",
+    description: "A beautiful landing page app using React and Bootstrap.",
+    image: "/projects/p1.png",
+    tags: ["React", "Bootstrap", "Kanban" , "iconsmaterial"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Gauravshukhu/React-Admin-dashboard_website",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Shooping Cart Dashboard",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "#",
-    githubUrl: "#",
+      "Shooping cart landing page intercative and responsive design.",
+    image: "/projects/p2.png",
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    demoUrl: "https://gauravshukhu.github.io/Shopping-Cart/",
+    githubUrl: "https://github.com/Gauravshukhu/Shopping-Cart",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Intern Portal",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "#",
-    githubUrl: "#",
+      "Full-featured intern portal with user and role-based access.",
+    image: "/projects/p3.png",
+    tags: ["React", "Tailwind", "Vite"],
+    demoUrl: "https://intern-portal-6vi7.vercel.app/",
+    githubUrl: "https://github.com/Gauravshukhu/Intern-----Portal",
   },
 ];
 
@@ -100,7 +100,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/Gauravshukhu"
           >
             Check My Github <ArrowRight size={16} />
           </a>

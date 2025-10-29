@@ -35,13 +35,13 @@ export const Navbar = () => {
           href="#hero"
         >
           <span className="relative z-10">
-            <span className="text-glow text-foreground"> PedroTech </span>{" "}
-            Portfolio
+            <span className="text-glow text-foreground"> Techie </span>{" "}
+            GS Portfolio
           </span>
         </a>
 
         {/* desktop nav */}
-        <div className="hidden md:flex space-x-8">
+       <div className="hidden md:flex space-x-8 absolute left-1/2 -translate-x-1/2">
           {navItems.map((item, key) => (
             <a
               key={key}
