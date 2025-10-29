@@ -1,11 +1,7 @@
 # Build a Modern Portfolio Website with React & TailwindCSS
 
 <div align="center">
-  <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
-  </a>
-  <br />
+  
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
@@ -13,11 +9,8 @@
     <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
     <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
   </div>
-  <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
-  <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
+  <h3 align="center">Create a Stunning  Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
+  
   <br />
 </div>
 
@@ -27,16 +20,14 @@
 2. [Tech Stack](#-tech-stack)
 3. [Features](#-features)
 4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
 6. [Deployment](#-deployment)
 
 ---
 
 ## 🚀 Introduction
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
+ build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases.
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
 
 ---
 
@@ -47,7 +38,6 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 * **TailwindCSS** – Utility-first CSS for styling
 * **Lucide Icons** – Clean and beautiful icon pack
 * **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
 * **GitHub & Vercel** – Deployment
 
 ---
@@ -84,7 +74,7 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ### Prerequisites
 
-* [Node.js](https://nodejs.org/)
+
 * [Git](https://git-scm.com/)
 
 ### Clone and Run
