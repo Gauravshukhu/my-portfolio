@@ -86,7 +86,7 @@ npm install
 npm run dev
 ```
 
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
+  My app will be available at: [http://localhost:5173](https://my-portfolio-six-lake-40.vercel.app/)
 
 ---
 
